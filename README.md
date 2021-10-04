@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=464070&assignment_repo_type=GroupAssignmentRepo)
-# Group 66 - {Analysis on anual air passenger traffic at Canadian airports}
+# Group 66 - {Analysis on Anual Air Passenger Traffic at Canadian airports}
 
-- Analysis on anual air passenger traffic at Canadian airports.
+- The following informations are about group 66's analysis on Anual Air Passenger Traffic at Canadian Airports.
 
 ## Milestones
 
@@ -17,18 +17,17 @@ Based on informations from Statistics Canada, the data set concludes air passeng
 
 ## Team Members
 
-- Person 1:My name is Billy Huang, I am a third year Econ student and this is my individual project for Data 301.
+- Person 1 and the only: My name is Billy Huang, I am a third year Econ student and this is my individual project for Data 301.
 
 
 ## Images
 
-{You can use this area for any images you want to include}
+
 
 <img src ="images/test.png" width="100px">
 
 ## References
-
-{Add your stuff here}
+https://open.canada.ca/data/en/dataset/86e2e0c7-150b-4a2b-b90c-ebc62f26f8a2
 
 
 
